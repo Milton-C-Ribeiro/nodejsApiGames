@@ -1,0 +1,25 @@
+{
+  "name": "apidegames",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Milton-C-Ribeiro/nodejsApiGames.git"
+  },
+  "keywords": [
+    "SHA256:yksTpB7SoEEu09pQZUu1wAvr2cBDaZt7DsZHVGBZgy0"
+  ],
+  "author": "Milton Carlos Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milton-C-Ribeiro/nodejsApiGames/issues"
+  },
+  "homepage": "https://github.com/Milton-C-Ribeiro/nodejsApiGames#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
